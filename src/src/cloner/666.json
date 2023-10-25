@@ -1,1 +1,2330 @@
-
+{
+    "name": "XRC",
+    "verificationLevel": "HIGH",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "Tickets",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "Xrc Owners",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-akataz",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "suporte-billzx69",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-fraudowiec",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-᲼᲼᲼᲼",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-allanpih23",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-meteverso",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-perromiau2",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-mr771",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas-zbellasz",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "suporte-jrzz__",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "suporte-zxdark019",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "suporte-7vmm",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Tickets",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "101376",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "/Welcome",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・entrou",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "68608",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "67584"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・avisos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・sorteios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・logs-att",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・boosts",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・seja-booster",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・seja-membro",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・seja-influencer",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Welcome",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Atendimento",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📎・ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Atendimento",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "・Aguardando Suporte¹",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Atendimento",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1049600",
+                                "deny": "2097152"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "・ Atendimento¹",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Atendimento",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2098688",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "transmissão de tela",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💳・payments",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Atendimento",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "・ Atendimento ²",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Atendimento",
+                        "permissions": [
+                            {
+                                "roleName": "transmissão de tela",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2098688",
+                                "deny": "1048576"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Buy",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・xrc-bypass-fivem",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Buy",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・xrc-create-project",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Buy",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・xrc-client",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Buy",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・xrc-valorant",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Buy",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・xrc-client-ios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Buy",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・xrc-trick",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Buy",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・xrc-valorant-nfa",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Buy",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "/ban",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "./",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "xrc!",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "/ban",
+                        "permissions": [
+                            {
+                                "roleName": "./",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "chat-priv",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/ban",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "66560",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Entrou = ban",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "/ban",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "./",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "vendas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/ban",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "valores-gerais",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/ban",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "reis",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/ban",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "brj",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "/ban",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "298845200"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "moderator",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/ban",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Entrou/ban",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "/ban",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "tutorial-instalação",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/ban",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "links-atualizados",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/ban",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Equipe xrc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Reseller/Influencers",
+                "permissions": [
+                    {
+                        "roleName": "Xrc Owners",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "INFLUENCER XRC",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "Reseller XRC",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "chat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Reseller/Influencers",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Reseller XRC",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "INFLUENCER XRC",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "valores",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Reseller/Influencers",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Reseller XRC",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "INFLUENCER XRC",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "postagem",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Reseller/Influencers",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Reseller XRC",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "INFLUENCER XRC",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "/$",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1048576"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑┊Radecc",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/$",
+                        "permissions": [
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Radecc",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑┊Braba",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/$",
+                        "permissions": [
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "Braba",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑┊Natan",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "/$",
+                        "permissions": [
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "natan",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑┊Reis",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "/$",
+                        "permissions": [
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "reis",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑┊ryannn",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/$",
+                        "permissions": [
+                            {
+                                "roleName": "/r",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "/xrc",
+                "permissions": [
+                    {
+                        "roleName": "XRC ONLY",
+                        "allow": "3147264",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1048576"
+                    },
+                    {
+                        "roleName": "Xrc Owners",
+                        "allow": "3147264",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🖥 • developing",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/xrc",
+                        "permissions": [
+                            {
+                                "roleName": "XRC ONLY",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Xrc¹",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/xrc",
+                        "permissions": [
+                            {
+                                "roleName": "XRC ONLY",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "Xrc²",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/xrc",
+                        "permissions": [
+                            {
+                                "roleName": "XRC ONLY",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "Xrc Owners",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "/あ",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🛸┊santos",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/あ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "santos",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🛸┊nuzy",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/あ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "nuzy",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🛸┊revoada.",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/あ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "/r",
+                                "allow": "0",
+                                "deny": "3147264"
+                            },
+                            {
+                                "roleName": "/vn",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🛸┊souza.",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/あ",
+                        "permissions": [
+                            {
+                                "roleName": "souza",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🛸┊Miraxrc",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "/あ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "miraxrc",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "./",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "ぱ",
+                "permissions": [
+                    {
+                        "roleName": "./",
+                        "allow": "3147264",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "💎┊𝖙𝖍𝖊 𝖇𝖊𝖘𝖙 𝖔𝖋 𝖎𝖔𝖘",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "ぱ",
+                        "permissions": [
+                            {
+                                "roleName": "checkra1n",
+                                "allow": "3147264",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "💎┊vgzinn",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": "ぱ",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "vg",
+                                "allow": "3147264",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "/Chat",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・chats",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Chat",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・divulgação-xrc",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Chat",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "./",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "33792",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Chat",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・memes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Chat",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "・music",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/Chat",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "/PARCERIA",
+                "permissions": [
+                    {
+                        "roleName": "Parceiros",
+                        "allow": "2048",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1050624"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤝・b1tch",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "/PARCERIA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Parceiros",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1050624"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "・/interactions",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "49152",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "wallpaper",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "・/interactions",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "49152",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "icons",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "・/interactions",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "49152",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "banners",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "・/interactions",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "49152",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "gifs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "・/interactions",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "49152",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "logs",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "log-loritta",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "saiu",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "logs-tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "auth-charlin",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "auth (setou/ban)",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "auth-hidden-services",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "logs",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "auth-hidden (setou/ban)",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_VOICE",
+                "name": "discord.gg/xerecao",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "1048576"
+                    },
+                    {
+                        "roleName": "Xrc Owners",
+                        "allow": "3147264",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "rules",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "2048"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_VOICE",
+                "name": "fazendinha felixxx",
+                "bitrate": 63813,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "2097664",
+                        "deny": "1049600"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "moderator-only",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "oi",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 51,
+            "isEveryone": false
+        },
+        {
+            "name": "🍅",
+            "color": "#f10f15",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 48,
+            "isEveryone": false
+        },
+        {
+            "name": "adm",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 47,
+            "isEveryone": false
+        },
+        {
+            "name": "🦅",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8797435200656",
+            "mentionable": false,
+            "position": 46,
+            "isEveryone": false
+        },
+        {
+            "name": "Xrc Owners",
+            "color": "#030303",
+            "hoist": true,
+            "permissions": "10968809078737",
+            "mentionable": false,
+            "position": 45,
+            "isEveryone": false
+        },
+        {
+            "name": "Disregard Xrc",
+            "color": "#e91e63",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 44,
+            "isEveryone": false
+        },
+        {
+            "name": "DEV",
+            "color": "#0093f2",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 43,
+            "isEveryone": false
+        },
+        {
+            "name": "STAFF XRC",
+            "color": "#11d6fd",
+            "hoist": true,
+            "permissions": "16828480",
+            "mentionable": false,
+            "position": 42,
+            "isEveryone": false
+        },
+        {
+            "name": "Equipe xrc",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8192",
+            "mentionable": false,
+            "position": 41,
+            "isEveryone": false
+        },
+        {
+            "name": "./",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "275380309504",
+            "mentionable": false,
+            "position": 40,
+            "isEveryone": false
+        },
+        {
+            "name": "INFLUENCER XRC",
+            "color": "#030303",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 39,
+            "isEveryone": false
+        },
+        {
+            "name": "Reseller XRC",
+            "color": "#0809e9",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 38,
+            "isEveryone": false
+        },
+        {
+            "name": "Contempt Xrc",
+            "color": "#6406f8",
+            "hoist": true,
+            "permissions": "8935108496961",
+            "mentionable": false,
+            "position": 37,
+            "isEveryone": false
+        },
+        {
+            "name": "Parceiros",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 36,
+            "isEveryone": false
+        },
+        {
+            "name": "CORTE XRC",
+            "color": "#f1c40f",
+            "hoist": true,
+            "permissions": "9209986354753",
+            "mentionable": false,
+            "position": 35,
+            "isEveryone": false
+        },
+        {
+            "name": "Broken XRC",
+            "color": "#ff0000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 34,
+            "isEveryone": false
+        },
+        {
+            "name": "Psycho XRC",
+            "color": "#4005fa",
+            "hoist": true,
+            "permissions": "2112",
+            "mentionable": false,
+            "position": 33,
+            "isEveryone": false
+        },
+        {
+            "name": "MEMBRO BOOSTER",
+            "color": "#e91e63",
+            "hoist": false,
+            "permissions": "137794734656",
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "XRC ONLY",
+            "color": "#e91e63",
+            "hoist": true,
+            "permissions": "274945329217",
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "BUNNY XRC",
+            "color": "#e91e63",
+            "hoist": true,
+            "permissions": "137657321536",
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "Xrc Advanced",
+            "color": "#0f5d05",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "Radecc",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "Braba",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "natan",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 20,
+            "isEveryone": false
+        },
+        {
+            "name": "reis",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 19,
+            "isEveryone": false
+        },
+        {
+            "name": "nuzy",
+            "color": "#000001",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 18,
+            "isEveryone": false
+        },
+        {
+            "name": "/r",
+            "color": "#95a5a6",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 17,
+            "isEveryone": false
+        },
+        {
+            "name": "brj",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "santos",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 15,
+            "isEveryone": false
+        },
+        {
+            "name": "souza",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": ".gg/xerecao",
+            "color": "#ccd6d1",
+            "hoist": true,
+            "permissions": "6479419905",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "miraxrc",
+            "color": "#030303",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "auth (setou/ban)",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "auth-hidden (setou/ban)",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "/vn",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "checkra1n",
+            "color": "#000508",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "vg",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "transmissão de tela",
+            "color": "#1396eb",
+            "hoist": false,
+            "permissions": "512",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "533235326324289",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1698166375144,
+    "guildID": "794350295286546433",
+    "id": "1166419060930510848",
+    "iconURL": "https://cdn.discordapp.com/icons/794350295286546433/a_e95576c6a1ac4b59e1d03d46e7fcde0c.gif",
+    "splashURL": "https://cdn.discordapp.com/splashes/794350295286546433/e95576c6a1ac4b59e1d03d46e7fcde0c.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/794350295286546433/4251b1f92ca4549af3bcfadc246a0dc2.webp"
+}
